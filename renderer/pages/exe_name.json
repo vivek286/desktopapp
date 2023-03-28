@@ -1,0 +1,10 @@
+[
+    {
+     "darwin":"TextEdit",   
+     "win32":"notepad.exe"
+    },
+    {
+        "win32":"spotify.exe",
+        "darwin":"Spotify"
+    }
+]
